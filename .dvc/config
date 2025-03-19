@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ../UsersuserAppDataLocalTemprk_kgpian_storage
